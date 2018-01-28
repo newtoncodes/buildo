@@ -1,7 +1,7 @@
 {
   "name": "demolisher",
   "version": "1.0.0",
-  "description": "",
+  "description": "Grunt based easy to use backend project builder.",
   "main": "./src/Builder.js",
   "author": "Christian Nikolov",
   "license": "MIT",
