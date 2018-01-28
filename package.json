@@ -1,0 +1,21 @@
+{
+  "name": "demolisher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/Builder.js",
+  "author": "Christian Nikolov",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "commander": "^2.9.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-gitinfo": "^0.1.8",
+    "moment": "^2.14.1",
+    "rimraf": "^2.5.4"
+  },
+  "bin": {
+    "build": "./bin/build.js",
+    "demolisher": "./bin/build.js"
+  }
+}
